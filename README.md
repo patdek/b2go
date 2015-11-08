@@ -1,2 +1,2 @@
-# b2go
-Library for connecting to Backblaze B2 Cloud Storage
+# b2
+A go based replacement for the b2 (B2 Cloud Storage) console tool
